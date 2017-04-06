@@ -1,7 +1,10 @@
 # MLDemos —— Machine Learning Demos
 
 ## Ensemble learning
-* Adaboost algorithm
-![adaboost](./Ensemble learning/images/adaboost.png)
-* Random Forest
-![rf](./Ensemble learning/images/oob_error.png)
+### Adaboost algorithm
+Classifier boundary becomes more accurate with the number of base learners increasing.  
+![adaboost](./EnsembleLearning/images/adaboost.png)
+
+### Random Forest
+Out of bags error rate decreases with the number of trees growning.
+![](./EnsembleLearning/images/oob_error.png)
